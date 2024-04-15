@@ -1,0 +1,6 @@
+name = input("Quel est votre prénom ? ")
+print("Salut " + name + " !")
+input("Tu va bien ?")
+print("Super !")
+age = int(input("Tu a quel age ? "))
+print("tu a " + str(age) + " ans")
